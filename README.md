@@ -1,4 +1,7 @@
+Test edit readme.md
+
 # Homework 1 - Portfolio and Programming Fundamentals
+
 
 There are **2 parts** to this homework. The homework is only complete if **both** parts are submitted.
 
